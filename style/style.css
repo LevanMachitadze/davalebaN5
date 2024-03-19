@@ -1,0 +1,193 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.main {
+  width: 1920px;
+  height: 1080px;
+  border: 16px solid rgba(216, 216, 216, 1);
+  background-color: rgba(238, 238, 238, 1);
+  padding: 276px 380px 266px 380px;
+}
+.menu {
+  width: 1160px;
+  height: 538px;
+  background-color: rgb(255, 255, 255);
+  display: flex;
+  justify-content: space-between;
+}
+.food {
+  width: 360px;
+  height: 528px;
+  border-radius: 16px;
+}
+.info-one {
+  position: absolute;
+  top: 302px;
+  left: 684px;
+}
+
+.name-one {
+  font-size: 24px;
+  font-family: "DM Serif Display", serif;
+  margin-top: 32px;
+  margin-left: 24px;
+}
+.icons-one {
+  position: absolute;
+  top: 542px;
+  left: 659px;
+}
+.about-one {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  color: rgba(110, 121, 140, 1);
+  margin: 24px;
+}
+.important-one {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  color: rgba(165, 173, 187, 1);
+  display: flex;
+  justify-content: space-between;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.order-one {
+  margin-left: 24px;
+  margin-right: 24px;
+  display: flex;
+}
+.price-one {
+  width: 88px;
+  height: 25px;
+  font-size: 28px;
+  font-family: "DM Serif Display", serif;
+  margin: 41px 8px 41px 0px;
+}
+.first-price-one {
+  width: 73px;
+  height: 25px;
+  font-size: 20px;
+  font-family: "DM Serif Display", serif;
+  color: rgba(248, 89, 59, 1);
+  margin: 41px 29px 41px 0px;
+  padding-top: 6px;
+}
+button {
+  width: 114px;
+  height: 44px;
+  background-color: rgba(46, 204, 113, 1);
+  color: white;
+  font-size: 14px;
+  font-weight: bold;
+  font-family: "Open Sans", sans-serif;
+  margin: 33px 24px 30px 0px;
+}
+
+.info-two {
+  position: absolute;
+  top: 292px;
+  left: 1084px;
+}
+
+.name-two {
+  font-size: 24px;
+  font-family: "DM Serif Display", serif;
+  margin: 32px 24px 24px 24px;
+}
+.icons-two {
+  position: absolute;
+  top: 542px;
+  left: 1026px;
+}
+.about-two {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  color: rgba(110, 121, 140, 1);
+  margin: 24px;
+}
+.important-two {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  color: rgba(165, 173, 187, 1);
+  display: flex;
+  justify-content: space-between;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.order-two {
+  margin-left: 24px;
+  margin-right: 24px;
+  display: flex;
+}
+.price-two {
+  width: 88px;
+  height: 25px;
+  font-size: 28px;
+  font-family: "DM Serif Display", serif;
+  margin: 41px 8px 41px 0px;
+}
+.first-price-two {
+  width: 73px;
+  height: 25px;
+  font-size: 20px;
+  font-family: "DM Serif Display", serif;
+  color: rgba(248, 89, 59, 1);
+  margin: 41px 29px 41px 0px;
+  padding-top: 6px;
+}
+
+.info-three {
+  position: absolute;
+  top: 292px;
+  left: 1484px;
+}
+
+.name-three {
+  font-size: 24px;
+  font-family: "DM Serif Display", serif;
+  margin: 32px 24px 24px 24px;
+}
+.icons-three {
+  position: absolute;
+  top: 542px;
+  left: 1492px;
+}
+.about-three {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  color: rgba(110, 121, 140, 1);
+  margin: 24px;
+}
+.important-three {
+  font-size: 16px;
+  font-family: "Open Sans", sans-serif;
+  color: rgba(165, 173, 187, 1);
+  display: flex;
+  justify-content: space-between;
+  margin-left: 24px;
+  margin-right: 24px;
+}
+.order-three {
+  margin-left: 24px;
+  margin-right: 24px;
+  display: flex;
+}
+.price-three {
+  width: 88px;
+  height: 25px;
+  font-size: 28px;
+  font-family: "DM Serif Display", serif;
+  margin: 41px 8px 41px 0px;
+}
+.first-price-three {
+  width: 73px;
+  height: 25px;
+  font-size: 20px;
+  font-family: "DM Serif Display", serif;
+  color: rgba(248, 89, 59, 1);
+  margin: 41px 29px 41px 0px;
+  padding-top: 6px;
+}
